@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-const int N = 1000010;
+#define N 1000010
 int t[N];
 
 int get(int i) {
